@@ -1,0 +1,24 @@
+@import 'nav';
+@import 'medianav';
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+html{
+    background-color: #fff;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+body{
+    min-height: 200vh;
+}
+
+ul{
+    padding: 0% !important;
+    margin: 0% !important;
+}

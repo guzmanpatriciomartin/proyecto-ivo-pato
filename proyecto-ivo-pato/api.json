@@ -1,0 +1,40 @@
+
+  [
+    {
+
+      "id": 1,
+      "nombre": "Patata",
+      "precio": 19,
+      "imagen": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg"
+  },
+  {
+      "id": 2,
+      "nombre": "Cebolla",
+      "precio": 12,
+      "imagen": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg"
+  },
+  {
+      "id": 3,
+      "nombre": "Calabacin",
+      "precio": 21,
+      "imagen": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg"
+  },
+  {
+      "id": 4,
+      "nombre": "Fresas",
+      "precio": 6,
+      "imagen": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg"
+  },
+  {
+      "id": 5,
+      "nombre": "Zapallo",
+      "precio": 6,
+      "imagen": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg"
+  },
+  {
+      "id": 7,
+      "nombre": "Mandioca",
+      "precio": 16,
+      "imagen": "https://saborusa.com.pa/imagesmg/imagenes/5ff3e6a0b703f_potatoes-food-supermarket-agriculture-JG7QGNY.jpg"
+  }
+]
